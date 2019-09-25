@@ -1,0 +1,314 @@
+La barre de menus contient les commandes pour gérer les greffons, organiser et utiliser les signets, actualiser l'arbre d'accessibilité et accéder au sommaire de l'aide.
+Arbre d'accessibilité
+L'arbre d'accessibilité permet de voir tous les éléments accessibles dès le niveau du bureau. En sélectionnant un élément accessible, vous pouvez l'inspecter plus en détails en utilisant les greffons chargés.
+Zone des greffons de droite
+C'est l'une des deux zones de greffons. Lorsqu'Accerciser est lancé pour la première fois, la plupart des greffons seront placés ici. Vous pouvez déplacer les onglets de greffons vers la zone de greffons du bas ou vers le bureau pour afficher deux greffons ou plus simultanément.
+Zone des greffons du bas
+Vous pouvez déplacer des greffons à partir de cette zone ou vers celle-ci comme pour la zone des greffons de droite.
+Gestion des zones de greffons
+Accerciser a deux modes pour accéder aux greffons. Vous pouvez basculer le mode de vue actuel avec le menu AffichageVue unique des greffons ou en appuyant sur CTRLT. Lorsque la vue unique est activée, tous les greffons sont placés dans la zone des greffons en haut à droite et classés par ordre alphabétique. Ceci peut être utile pour les utilisateurs de lecteur d'écran qui ne font pas usage de la disposition spatiale flexible des greffons.Lorsque la vue unique est désactivée, les onglets de greffons peuvent être glissés et déposés dans les différentes zones de greffons, ou déplacés sur le bureau pour créer une nouvelle zone pour le greffon. La position des greffons peut également être modifiée avec le menu contextuel de greffon, qui peut être affiché soit depuis l'onglet du greffon, soit depuis la boîte de dialogue des préférences du greffon.
+Utilisation
+Vous pouvez utiliser Accerciser pour inspecter n'importe quel composant accessible dans l'arbre en utilisant les greffons disponibles. La première étape est de sélectionner un élément accessible à inspecter en utilisant l'une des méthodes suivantes :
+Sélection d'un élément accessible via l'arbre d'accessibilité
+Utilisez l'arborescence pour naviguer dans la hiérarchie des objets accessibles dont la racine est le bureau. Le développement d'un nœud de l'arbre présente ses fils immédiats, alors qu'ils disparaissent si vous le repliez. Chaque noeud dispose d'une icône correspondant à son application ou à son rôle de composant, ainsi que son nom d'élément accessible, le cas échéant. La deuxième colonne présente la liste des nœuds qui seront affichés si l'élément est développé.
+Une liste de chaînes sous la forme d'un quintuplet : nom, victoires, total des parties jouées, meilleur temps (en secondes) et plus mauvais temps (aussi en secondes). Les parties non jouées non pas besoin d'être représentées.
+Logiciel de vie artificielle qui simule les processus impliqués dans l'évolution des organismes
+Les informations collectées peuvent être envoyées aux développeurs pour améliorer l'application. Cela peut prendre quelques minutes.
+Les informations collectées sont envoyées au système de suivi de bogues. Cela peut prendre quelques minutes.
+Chemin du fichier (Entrée pour annuler) :
+Le fichier n'existe pas.
+Ceci est un répertoire.
+Pour continuer, vous devez visiter l'adresse suivante :
+Vous pouvez lancer un navigateur maintenant, ou copier cette adresse dans un navigateur sur un autre ordinateur.
+Lancer un navigateur Web maintenant
+Ce paquet ne semble pas installé correctement.
+programme inconnu
+Votre ordinateur ne possède pas suffisamment de mémoire libre pour analyser automatiquement le problème et envoyer un rapport aux développeurs.
+Rapport d'anomalie non valide
+Vous n'êtes pas autorisé à accéder à ce rapport d'anomalie.
+Erreur
+Il n'y a pas assez d'espace disque disponible pour traiter ce rapport.
+Aucun paquet spécifié
+Autorisation refusée
+Le processus spécifié ne vous appartient pas. Veuillez exécuter ce programme en tant que propriétaire du processus ou en tant que super-utilisateur (root).
+PID non valide
+L'ID de processus spécifié n'appartient à aucun programme.
+Impossible de créer le rapport
+Mise à jour du rapport d'anomalie
+Vous n'avez pas rapporté ce problème ou n'y êtes pas abonné, ou le rapport est un doublon ou déjà fermé. Veuillez créer un nouveau rapport en utilisant « apport-bug ».
+Vous n'êtes pas le rédacteur de ce rapport d'anomalie. Il est bien plus facile de marquer un bogue comme doublon que de déplacer vos commentaires et pièces jointes vers un nouveau bogue. Par conséquent, nous vous recommandons de compléter un nouveau rapport de bogue en utilisant « apport-bug » et de laisser un commentaire dans le bogue initial. Voulez-vous vraiment continuer ?
+Aucune information supplémentaire n'a été collectée.
+Quel type de problème voulez-vous signaler ?
+Symptôme inconnu
+Après avoir fermé ce message, veuillez cliquer sur la fenêtre de l'application pour laquelle vous voulez signaler un problème.
+xprop n'a pas pu déterminer l'ID du processus de la fenêtre
+Veuillez indiquer le nom du paquet.
+Ajouter un marqueur supplémentaire pour le rapport. Peut être spécifié plusieurs fois.
+Cliquez sur la fenêtre pour laquelle vous voulez signaler un problème.
+Rédiger un rapport de bogue concernant un symptôme. (Implicite si le nom du symptôme est donné comme unique argument.)
+Le pid fourni est une application qui ne répond pas.
+En mode de signalement de bogue, enregistre les informations collectées dans un fichier au lieu de générer un rapport. Ce fichier pourra être utilisé plus tard à partir d'une autre machine pour envoyer un rapport.
+Afficher le numéro de version d'Apport.
+Cela va lancer apport-retrace dans une fenêtre de terminal pour examiner le plantage.
+Lancer une session gdb
+Exécuter la session gdb sans télécharger les symboles de débogage
+Ce rapport d'anomalie fait référence à un logiciel qui n'est plus installé.
+Ce rapport d'anomalie est endommagé et ne peut pas être traité.
+Le rapport fait référence à un paquet non installé.
+Une erreur est survenue lors du traitement de ce rapport d'anomalie :
+Impossible de déterminer le nom du paquet ou du paquet source.
+Impossible de lancer le navigateur Web
+Problème de réseau
+Impossible de se connecter à la base de données des plantages. Veuillez vérifier votre connexion Internet.
+Mémoire saturée
+Votre système n'a pas assez de mémoire pour traiter ce rapport de plantage.
+Problème déjà connu
+Ce problème a déjà fait l'objet du rapport de bogue affiché dans le navigateur Web. Veuillez vérifier si vous pouvez ajouter des informations complémentaires susceptibles d'aider les développeurs.
+Ce problème a déjà été signalé aux développeurs. Merci !
+Cela s'est produit lors d'une précédente mise en veille, l'empêchant de reprendre correctement.
+Cela s'est produit lors d'une précédente hibernation, l'empêchant de reprendre correctement.
+Le processus de sortie de veille a bloqué juste avant la fin et apparaîtra comme ayant terminé normalement.
+Ne pas placer les nouvelles « traces » dans le rapport, mais les écrire sur la sortie standard.
+Démarrer une session gdb interactive avec l'image système du rapport (-o ignoré ; ne réécrit pas le rapport)
+Écrire le rapport modifié dans le fichier donné au lieu de changer le rapport original.
+Supprimer l'image système du rapport après régénération de la trace de la pile
+Écraser le fichier core du rapport
+Écraser le chemin de l'exécutable du rapport
+Écraser la mappe des processus du rapport
+Reconstruire les informations sur les paquets du rapport
+Préfixer un horodatage aux messages de journal, pour un traitement par lots
+Répertoire de cache pour les paquets téléchargés dans le bac à sable
+Répertoire pour les paquets décompressés. Les exécutions futures présumeront qu'un paquet déjà téléchargé sera aussi extrait dans ce bac à sable.
+Installer un paquet supplémentaire dans le bac à sable (peut être spécifié plusieurs fois)
+Chemin d'un fichier contenant les informations d'authentification de la base de données des plantages. Ceci est utilisé lorsque l'on spécifie un ID de plantage pour téléverser les traces de la pile retracées (seulement si -g, -o ou -s ne sont pas spécifiés)
+Afficher les traces de la pile retracées et demander une confirmation avant de les envoyer à la base de données des plantages.
+Chemin de la copie de la base de données sqlite (par défaut : pas de vérification de la copie)
+Vous ne pouvez pas utiliser -C sans -S. Arrêt.
+Voir la page de manuel pour plus de détails.
+spécifier le nom du fichier journal produit par valgrind
+réutiliser un répertoire de bac à sable (« sandbox ») (SDIR) créé précédemment ou, s'il n'existe pas, le créer
+ne pas créer ou réutiliser un répertoire de bac à sable pour des symboles additionnels de débogage, mais s'appuyer seulement sur les symboles de débogage installés.
+réutiliser un répertoire de cache (CDIR) précédemment créé ou, s'il n'existe pas, le créer
+l'exécutable lancé dans l'outil de vérification de la mémoire de valgrind pour détecter une fuite de mémoire.
+Le dossier de destination existe déjà et n'est pas vide.
+Un paquet Ubuntu a un conflit de fichiers avec un paquet qui n'est pas un paquet authentique d'Ubuntu
+Votre système était initialement configuré avec grub version 2, mais vous l'avez enlevé de votre système en faveur de grub 1 sans le configurer. Pour faire en sorte que la configuration de votre chargeur d'amorçage soit mise à jour quand un nouveau noyau est disponible, ouvrez un terminal et exécutez : sudo apt-get install grub-pc
+Problème dans bash
+Collecte des informations liées au problème
+Les informations collectées peuvent être envoyées aux développeurs pour améliorer l'application. Cela peut prendre quelques minutes.
+Téléversement des informations liées au problème
+Fichier de plantage Apport
+L'application Apport a cessé de répondre.
+Vous pouvez attendre de voir si elle se réveille, ou bien la fermer ou encore la relancer.
+Désolé, l'application apport s'est arrêtée de façon inattendue.
+Désolé, apport s'est fermé de manière inopinée.
+Lister les clés des fournisseurs de confiance
+Pour afficher la liste des clés de confiance, vous devez vous authentifier.
+Supprimer les paquets téléchargés
+Vous devez vous authentifier pour supprimer les paquets téléchargés.
+Modifier la configuration du logiciel
+Vous devez vous authentifier pour modifier la configuration du logiciel.
+Modifier le dépôt logiciel
+Pour modifier la configuration des dépôts logiciels, vous devez vous authentifier.
+Installer un paquet
+Vous devez vous authentifier pour installer ce paquet.
+Mettre à jour les informations sur les paquets
+Pour mettre à jour le catalogue des logiciels, vous devez vous authentifier.
+Installer ou supprimer des paquets
+Vous devez vous authentifier pour installer ou supprimer des logiciels.org.debian.apt.install-or-remove-packages
+Installer le logiciel à partir d'un dépot marqué comme très fiable.
+Vous devez vous authentifier pour installer des logiciels.
+Ajouter un nouveau dépôt et installer des paquets depuis celui-ci
+Vous devez vous authentifier pour installer le logiciel depuis une nouvelle source.
+Ajouter un nouveau dépôt de logiciels à acheter et installer des paquets depuis celui-ci
+Vous devez vous authentifier pour installer le logiciel acheté.
+Mettre à jour les paquets
+Vous devez vous authentifier pour mettre à jour des logiciels.
+Annuler la tâche d'un autre utilisateur
+Vous devez vous authentifier pour annuler les modifications sur les logiciels d'un autre utilisateur.
+Définir un serveur mandataire pour le téléchargement des logiciels
+Vous devez vous authentifier pour utiliser un serveur mandataire pour télécharger des logiciels.
+Vous n'êtes pas autorisé(e) à réaliser cette action.
+Mise en file d'attente
+Résolution des dépendances
+Rafraîchir le cache
+Tenter de réparer les dépendances cassées. Cette opération est potentiellement dangereuse, car elle pourrait essayer de supprimer de nombreux paquets.
+Tenter d'achever une installation précédente incomplète
+Installer les paquets spécifiés
+Réinstaller les paquets spécifiés
+Supprimer les paquets spécifiés
+Supprimer les paquets spécifiés y compris les fichiers de configuration
+Revenir à la version précédente des paquets spécifiés
+Mettre à niveau le système de manière sûre
+Mettre à niveau le système avec d'éventuels ajouts et suppressions de paquets
+Ajouter aux fournisseurs de confiance
+Utiliser le serveur de clés spécifié pour la recherche de clés
+Ajouter un nouveau dépôt à partir de la ligne deb spécifiée
+Spécifie un fichier sources.list.d alternatif auquel les dépôts doivent être ajoutés
+Lister les clés des fournisseurs de confiance
+Supprimer la clé de confiance ayant l'empreinte spécifiée
+Reconfigurer les paquets installés. Il est possible de régler la priorité des questions.
+Priorité debconf minimale de la question à afficher
+Ne pas attacher au terminal apt
+Autorise les paquets provenant de sources non authentifiées
+Affiche des informations supplémentaires sur les paquets. Actuellement uniquement le numéro de version
+En attente d'authentification
+Ne pas quitter le démon s'il est inactif
+Ne charger aucun greffon
+Afficher les informations de traitement interne
+Ces formats sont divisés en deux groupes: ceux qui sont disponibles en ligne, et les téléchargeables.
+Certains éditeurs ont fournis des versions imprimées de ces manuels.
+Nous n 'en recommandons aucune, car elles sont rapidement obsolètes.
+Pour un confort d'utilisation accrue, il est recommandé d 'uitiliser un mirroir proche de chez vous.
+Elle sera répétée à chaque niveau de la pile d 'appel.
+Indique au client que le message du débuggeur se termine ici.
+Le débuggeur fonctionne en se connectant à un port TCP à chaque démarrage de PHP.
+Tous les messages d 'erreur seront envoyés sur cette connexion.
+Etant donné les possibilités infinies de PHP en environnement shell, le temps d'exécution maximal d 'un script PHP a été rendu illimité.
+Alors que les scripts destinés au web doivent s 'accomplir en une fraction de seconde, il arrive que les scripts shell requièrent bien plus de temps.
+Ces directives ne peuvent pas être initialisées avec d 'autres valeurs dans le fichier php.ini ou par une autre méthode.
+C'est une limitation, car ces valeurs par défaut s 'appliquent une fois que tous les autres fichiers de configuration ont été analysés.
+Modifier les colonnes affichées dans la liste des messages.
+Ajout d'en-têtes personnalisés dans un message
+Cliquez sur NouveauMessage ou pressez MajCtrlM pour ouvrir la fenêtre de l'éditeur de messages.
+Sélectionnez InsertionEn-tête personnalisé.
+Dans la fenêtre En-tête de courriel personnalisé, vous pouvez voir tous les champs et valeurs d'en-têtes définis.
+Définissez les valeurs des champs d'en-tête en utilisant la liste déroulante.
+Activer le format HTML dans l'éditeur de courriel.
+Activation du format HTML
+Vous pouvez modifier le format d'un courriel et passer du format texte simple au HTML dans l'éditeur de courriel en choisissant FormatHTML dans la barre de menus.
+Alternativement, vous pouvez aussi, dans la première liste déroulante sous la ligne Sujet, remplacer Texte simple par HTML.
+Si vous choisissez le format HTML, une seconde barre d'outils s'affiche sous la ligne Sujet avec les options propres à l'HTML.
+Pour envoyer tous vos messages en HTML par défaut, cochez ÉditionPréférencesPréférences de l'éditeurComportement par défautFormater les messages en HTML.
+Faire suivre un message reçu à quelqu'un.
+Lorsque vous recevez un courriel, vous pouvez le faire suivre à d'autres personnes ou groupes qui pourraient être intéressés.
+Trace une ligne par-dessus le texte.
+Les autres boutons sont expliqués dans .
+Ajouter, changer, modifier ou supprimer les signatures de courriel.
+Gestion des signatures
+Vous pouvez ajouter, modifier ou supprimer toutes vos signatures sous ÉditionPréférencesPréférences de l'éditeurSignatures.
+L'attribution d'une signature par défaut à un compte de messagerie doit être faite dans les paramètres de compte.
+Utiliser de signatures de courriel en bas des messages que vous envoyez.
+Utilisation des signatures de courriels
+Le terme « signature » possèdent également un autre sens pour ce qui concerne le chiffrement.
+Définir une signature par défaut pour un compte de messagerie.
+Les modèles peuvent contenir plus que seulement l'ensemble prédéfini des paires clé-valeur. Vous pouvez aussi obtenir n'importe quelles valeurs d'en-tête de message à partir du courriel auquel vous appliquez le modèle, en plus du corps complet du message.
+Ce qu'il est possible d'envoyer : votre pays, votre région, votre département, votre ville, votre rue, votre numéro de bâtiment, votre numéro d'étage, votre numéro de chambre, votre code postal, la longitude, la latitude, l'altitude, la vitesse et le relèvement.
+La précision et la quantité d'informations sur votre position géographique sont basés sur le logiciel ou sur le matériel utilisés pour trouver votre position.
+Des types de réseaux différents peuvent avoir des paramètres de précision différents et peuvent envoyer des informations différentes. L'utilisation de périphériques externes tels qu'un GPS ou qu'un téléphone cellulaire augmente la précision des informations envoyées.
+Lorsque le mode confidentiel est activé, seul le nom de votre ville est envoyé, même si vous utilisez un périphérique externe.
+Destinataires de l'information envoyée
+Seuls vos contacts peuvent voir votre position géographique.
+Les discussions de groupe vous permettent de discuter par écrit avec plusieurs contacts à la fois.
+Pour accéder à une discussion de groupe, vous devez posséder un compte enregistré sur Jabber ou Google Talk ou un compte de Personnes à proximité.
+Vous ne pouvez participer à une discussion de groupe qu'avec les contacts qui utilisent le même service que le vôtre.
+Vous pouvez entretenir des conversations privées avec d'autres utilisateurs IRC, en dehors des salons de discussions publics IRC. Pour démarrer une conversation avec un autre utilisateur IRC :
+Dans la liste des contacts d'un salon de discussion IRC, double-cliquez sur le nom de l'utilisateur avec qui vous voulez discuter. Vous pouvez aussi faire un clic droit sur le nom de l'utilisateur et sélectionner Discuter.
+Dans la fenêtre Liste des contacts, cliquez sur la liste déroulante du haut.
+Sélectionnez l'état auquel vous voulez ajouter un message personnalisé. Vous devez sélectionner celui qui est identifié par l'étiquette Message personnalisé.
+Saisissez votre message personnalisé dans la boîte de dialogue en haut de la fenêtre et appuyez sur Entrée pour définir le message.
+Si vous voulez définir le message personnalisé comme un favori et l'enregistrer pour pouvoir le réutiliser, cliquez sur le petit cœur à droite de la boîte de dialogue où vous avez saisi votre message personnalisé.
+Il est possible de partager votre bureau avec certains de vos contacts. Vous pouvez utiliser cette fonctionnalité pour montrer votre bureau à vos contacts pour, par exemple, demander de l'aide ou aider vos contacts à résoudre un problème.
+Pour pouvoir partager votre bureau, vous devez avoir un serveur VNC qui prend en charge cette fonctionnalité, installé sur votre système. Vino, le serveur VNC de GNOME, dispose du support nécessaire.
+Laisser le disque ouvert afin d'ajouter d'autres fichiers plus tard
+Dans la zone de liste déroulante, choisissez le disque que vous souhaitez copier.
+Dans la zone de liste déroulante, choisissez le disque qui sera gravé.
+Dans la zone de liste déroulante, choisissez le répertoire à utiliser pour enregistrer les fichiers temporaires qui sont créés pendant la gravure.
+L'image n'a pas pu être créée à l'emplacement indiqué
+Quitter le programme lors de la fermeture de la dernière vue
+Demander une confirmation avant de quitter le programme
+Se mettre en attente après un téléchargement
+Utiliser un indicateur « ligne d'état » pour tous les téléchargements
+Avancer à l'entrée suivante après avoir changé l'état d'un paquet
+Afficher automatiquement pourquoi les paquets sont cassés
+Mode de groupement par défaut pour les vues des paquets
+Limite d'affichage par défaut pour les vues des paquets
+Format d'affichage pour les vues des paquets
+Format d'affichage pour la ligne d'état
+Format de la ligne d'en-tête de l'affichage
+Mettre à jour automatiquement les paquets installés
+Supprimer automatiquement du cache les paquets périmés
+Passer un nom de fichier avec le chemin complet fera que PHP utilisera ce fichier, sans recherche dans les dossiers classiques.
+Un chemin de dossier relatif indiquera à PHP qu 'il doit chercher uniquement les extensions dans ce dossier.
+La première est le nombre d'arguments plus un (le nom du script qui est exécuté).
+Vous pouvez en outre décider si vous voulez que la déconnexion d'un client provoque l 'arrêt de votre script.
+Il est parfois pratique de terminer le script, même si le client n 'est plus là pour recevoir les informations.
+Notez que l'on suppose ici que le nom du fichier téléchargé est 'userfile', comme présenté dans l 'exemple ci-dessus:
+Les connexions persistantes sont un bon moyen d 'accélérer les accès à une base SQL si le traitement de connexion à la base est long.
+Ce temps dépend de nombreux facteurs: le type de base de données, cette base est-elle sur le même serveur ou pas, quelle est la charge du serveur de base de données, etc...
+Si le temps de connexion est long, les connexions persistantes seront bien utiles, car une fois ouverte par un processus fils, la connexion est réutilisable sans avoir à se reconnecter.
+Si vous avez 20 processus fils, il suffit d 'avoir 20 connexions persistantes ouvertes, une par fils.
+Notez que les connexions persistantes ont quelques inconvénients si vous hébergez une base de données, dont le nombre maximal de connexion risque d 'être atteint par les connexions persistantes.
+Cette fonction n 'est pas documentée, et seule la liste des arguments est disponible.
+La date est fournie par le paramètre timestamp, sous la forme d 'un timestamp.
+Si le nom de la base est un numéro, le système l 'utilisera comme numéro de port, et ne le demandera pas à FBExec.
+Ce type de lien est alors dit 'persistant'.
+Une gestion spéciale permet de lire les champs multiples, qui sinon, auraient toutes le même nom.
+Pour chaque colonne d'un champs multiple, le nom d 'index est créé en ajoutant le numéro de sous-index à la suite du nom de la colonne.
+Nombre total de colonnes dans le résultat (ou zéro si la requête était immédiate).
+Si est utilisé, la recherche sera limitée aux documents dont la date de modification est plus grande que celle qui a été entrée.
+zip_open() ouvre une nouvelle archive ZIP.
+Cela a encore pris quelques mois pour que le projet soit dans une forme présentable.
+Dans ce cas, vous n 'aurez pas besoin de serveur web, ni de navigateur.
+Inactive le passage de chemins supplémentaires pour la recherche de librairie lors de l 'exécution.
+Sélectionnez la nouvelle clé phpfile et dans le panneau de doite, double-cliquez dans "default value" et entrez PHP Script.
+A la fin du fichier, créez un nouvel objet appelé x-httpd-php, en insérant ces lignes:
+Redémarrez votre serveur web, et validez les modifications
+Le système de bug est aussi capable de traiter les suggestions.
+Si vous pensez avoir trouvé un bug dans PHP, n 'oubliez pas de le signaler.
+L 'équipe de développement PHP ne le connaît peut être pas, et si vous ne le signaler pas, vos chances de voir le bug corrigé sont nulles.
+Lisez les guides (Les bugs: ce qu'il faut faire, et ce qu'il ne faut pas faire) avant d'envoyer n 'importe quel rapport!
+Si vous êtes complètement bloqués, quelqu 'un sur la liste de diffusion PHP pourra probablement vous aider.
+La première partie du processus est faite en ligne de commande, grâce aux options du script configure.
+Cette section présente l'utilisation des options les plus courantes, mais il y en a beaucoup d 'autres à essayer.
+Deux types d 'installation sont fournis: standard, qui utilise toutes les configurations par défaut les plus pratiques, et avancée, qui pose un maximum de questions pour paramétrer le plus finement.
+Le wizard d'installation rassemble suffisamment d 'informations pour configurer php.ini et le serveur web qui utilisera PHP.
+Pour IIS, mais aussi PWS sous NT Workstation, une liste de l 'arboresence web est affichée, et vous pouvez sélectionner les dossiers qui utiliseront PHP.
+La conséquence directe est que les investissements nécessaires en infrastructure pour supporter ce type de développement n 'ont pas été faits.
+Ce qui fait que le portage des utilitaires Unix a été la solution pour pallier ce manque.
+Ne soyez donc pas surpris de rencontrer cette parenté de temps en temps.
+La majorité des instructions que vous allez rencontrer sont du type: "faire et oublier".
+Alors, asseyez-vous confortablement et suivez aussi scrupuleusement que possible les instructions.
+Avant de commencer, il faut télécharger un maximum de fichiers!
+Pour commencer, téléchargez le Cygwin depuis le miroir cygwin le plus proche.
+Cela vous donnera les utilitaires GNU les plus populaires, utilisés durant le processus de compilation.
+Au lieu d'écrire un programme avec de nombreuses lignes de commandes afin d'afficher une page HTML, vous écrivez une page HTML avec du code inclus à l'intérieur afin de réaliser une action précise (dans ce cas là, afficher du texte).
+Ce qui distingue le PHP des langages de script comme le Javascript est que le code est exécuté sur le serveur.
+Si vous avez un script similaire sur votre serveur, le client ne reçoit que le résultat du script, sans aucun moyen d 'avoir accès au code qui a produit ce résultat.
+Souvent, vous aurez besoin d 'une classe avec des méthodes et fonctions similaires à une autre classe.
+En fait, il est bon de définir des classes génériques, qui pourront être réutilisées et adaptées à tous vos projets.
+La classe dérivée hérite alors de toutes les méthodes et variables de la classe de base (cet héritage a ça de bien que personne ne meurt pour en profiter), mais peut définir ses propres fonctions et variables, qui s 'ajouteront.
+Une classe ne peut hériter que d'une seule autre classe, et l'héritage multiple n 'est pas supporté.
+Vous créez un panier nominatif de la même manière que précédemment, et vous pouvez alors affecter un nom au panier ou en connaître le nom.
+Vous pouvez de toutes les façons utiliser les même fonctions que sur un panier classique.
+C 'est particulièrement vrai si votre classe dérivée est une spécialisation de votre classe de base.
+Au lieu d'utiliser le nom litéral de votre classe de base dans votre code, vous pouvez utiliser le mot réservé parent, qui représente votre classe de base (celle indiqué par extends, dans la déclaration de votre classe).
+En faisant cela, vous éviter d 'appeler le nom de votre classe de base directement dans votre code.
+Si votre héritage change, vous n'aurez plus qu 'à modifier le nom de la classe dans la déclaration extends de votre classe.
+Chacun de ces types de variables peut être affecté ou renvoyé par une fonction.
+Chacun de ces types de variables peut être affecté ou renvoyé par une fonction.
+Malgré tout, PHP va plus loin dans la gestion des expressions, comme le font d 'autres langages.
+PHP est un langage orienté expression, dans le sens où presque tout est une expression.
+Mais, la vérité est qu'il y a une autre valeur qui entre en jeu ici et c'est la valeur de l 'assignation elle-même.
+L 'assignation elle-même est assignée à une valeur, dans ce cas-là 5.
+Un autre bon exemple du langage orienté expression est la pré-incrémentation et la post-incrémentation, (ainsi que la décrémentation).
+Ce sont les opérateurs d 'incrémentation et de décrémentation.
+En PHP, comme en C, il y a deux types d'opérateurs d'incrémentation (pré-incrémentation et post-incrémentation).
+Les deux types d'opérateur d'incrémentation jouent le même rôle (c'est-à-dire qu'ils incrémentent la variable).
+La différence vient de la valeur de l'opérateur d 'incrémentation.
+Un type d'expression très commun est l 'expression de comparaison.
+Ces expressions sont évaluées à 0 ou 1, autrement dit FALSE ou TRUE (respectivement).
+Ces expressions sont utilisées de manière courante dans les instructions conditionnelles, comme l 'instruction if.
+Mais si vous voulez ajouter la valeur '3' à votre variable?
+Et pour être plus concis et plus clair, cette expression est plus rapide.
+Il y a une autre expression qui peut paraître complexe si vous ne l'avez pas vueà-dire dans d'autre langage, l 'opérateur conditionnel ternaire:
+Les exemples suivants devraient vous permettre de mieux comprendre la pré - et post - incrémentation et le concept des expressions en général:
+Au début de ce chapitre, nous avons dit que nous allions décrire les différents types d 'instructions, et donc, comme promis, nous allons voir que les expressions peuvent être des instructions.
+Mais, attention, toutes les expressions ne sont pas des instructions.
+Dans ce cas-là, une instruction est de la forme 'expr' ';', c 'est-à-dire, une expression suivie par un point-virgule.
+La dernière chose qui mérite d 'être mentionnée est la véritable valeur des expressions.
+Mais vous voulez seulement savoir si le résultat signifie TRUE ou FALSE (PHP n'a pas de type booléen).
+Toute valeur numérique différente de 0 est considérée comme étant TRUE.
+Toutes les autres valeurs sont vraies.
+Avec les types de variables non-scalaires (les tableaux et les objets), s 'ils ne contiennent aucun élément, renvoient FALSE, sinon, ils renvoient TRUE. PHP documente toutes ses expressions dans le manuel que vous êtes en train de lire.
+Les exemples qui vont suivre devraient vous donner une bonne idée de ce qu 'est une expression et comment construire vos propres expressions.

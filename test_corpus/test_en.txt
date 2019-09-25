@@ -1,0 +1,314 @@
+The menu bar contains commands for managing plugins, managing and using bookmarks, refreshing the accessible tree view, and accessing this help system.
+Accessible tree view
+The accessible tree view allows to view all of the accessibles starting at the desktop level. Selecting an accessible makes it available for further inspection using the loaded plugins.
+Right plugin view
+This is one of the two default plugin views. When Accerciser is first run, most plugins will reside here. You can drag plugin tabs to the bottom plugin view or to the desktop to show two or more plugins simultaneously.
+Bottom plugin view
+You can drag plugins to or from this area just like the right plugin view.
+Plugin View Management
+Accerciser has two modes for viewing plugins. The current view mode could be toggled with ViewSingle plugin view or by pressing Controlt. When single mode is enabled, all plugins will be put in the top right plugin view and ordered alphabetically, this could be useful for screen reader users who have no use for Accerciser's flexible plugin spacial layout scheme. When single view mode is disabled plugin tabs could be dragged and dropped in to different plugin views, or could be dragged to the desktop to put the given plugin in a new view. The placement of plugins could also be manipulated with the plugin context menu that could be brought up either from the plugin tab, or the plugin preferences dialog.
+Usage
+You can use Accerciser to inspect any accessible widget shown in the tree view using the available plugins. The first step is to select an accessible to inspect using one of the following methods:
+Select an accessible through the tree view.
+Use the tree view to navigate the hierarchy of accessible objects rooted at desktop. Unfolding a tree node reveals its immediate children while folding it hides them. Each node shows an icon for its associated application or widget role and its accessible name, if available. The second column lists how many nodes will be shown if the item is unfolded.
+A list of strings that come in the form of a quintuple: name, wins, total games played, best time (in seconds) and worst time (also in seconds). Unplayed games do not need to be represented.
+Artificial life program that simulates the processes involved in the evolution of organisms
+The collected information can be sent to the developers to improve the application. This might take a few minutes.
+The collected information is being sent to the bug tracking system. This might take a few minutes.
+Path to file (Enter to cancel):
+File does not exist.
+This is a directory.
+To continue, you must visit the following URL:
+You can launch a browser now, or copy this URL into a browser on another computer.
+Launch a browser now
+This package does not seem to be installed correctly
+unknown program
+Your computer does not have enough free memory to automatically analyze the problem and send a report to the developers.
+Invalid problem report
+You are not allowed to access this problem report.
+Error
+There is not enough disk space available to process this report.
+No package specified
+Permission denied
+The specified process does not belong to you. Please run this program as the process owner or as root.
+Invalid PID
+The specified process ID does not belong to a program.
+Cannot create report
+Updating problem report
+You are not the reporter or subscriber of this problem report, or the report is a duplicate or already closed. Please create a new report using "apport-bug".
+You are not the reporter of this problem report. It is much easier to mark a bug as a duplicate of another than to move your comments and attachments to a new bug. Subsequently, we recommend that you file a new bug report using "apport-bug" and make a comment in this bug about the one you file. Do you really want to proceed?
+No additional information collected.
+What kind of problem do you want to report?
+Unknown symptom
+After closing this message please click on an application window to report a problem about it.
+xprop failed to determine process ID of the window
+Specify package name.
+Add an extra tag to the report. Can be specified multiple times.
+Click a window as a target for filing a problem report.
+File a bug report about a symptom. (Implied if symptom name is given as only argument.)
+The provided pd is a hanging application.
+In bug filing mode, save the collected information into a file instead of reporting it. This file can then be reported later on from a different machine.
+Print the Apport version number.
+This will launch apport-retrace in a terminal window to examine the crash.
+Run gdb session
+Run gdb session without downloading debug symbols
+This problem report applies to a program which is not installed any more.
+This problem report is damaged and cannot be processed.
+The report belongs to a package that is not installed.
+An error occurred while attempting to process this problem report:
+Could not determine the package or source package name.
+Unable to start web browser
+Network problem
+Cannot connect to crash database, please check your Internet connection.
+Memory exhaustion
+Your system does not have enough memory to process this crash report.
+Problem already known
+This problem was already reported in the bug report displayed in the web browser. Please check if you can add any further information that might be helpful for the developers.
+This problem was already reported to developers. Thank you!
+This occurred during a previous suspend and prevented it from resuming properly.
+This occurred during a previous hibernate and prevented it from resuming properly.
+The resume processing hung very near the end and will have appeared to have completed normally.
+Do not put the new traces into the report, but write them to stdout.
+Start an interactive gdb session with the report's core dump (-o ignored; does not rewrite report)
+Write modified report to given file instead of changing the original report
+Remove the core dump from the report after stack trace regeneration
+Override report's CoreFile
+Override report's ExecutablePath
+Override report's ProcMaps
+Rebuild report's Package information
+Prepend timestamps to log messages, for batch operation
+Cache directory for packages downloaded in the sandbox
+Directory for unpacked packages. Future runs will assume that any already downloaded package is also extracted to this sandbox.
+Install an extra package into the sandbox (can be specified multiple times)
+Path to a file with the crash database authentication information. This is used when specifying a crash ID to upload the retraced stack traces (only if neither -g, -o, nor -s are specified)
+Display retraced stack traces and ask for confirmation before sending them to the crash database.
+Path to the duplicate sqlite database (default: no duplicate checking)
+You cannot use -C without -S. Stopping.
+See man page for details.
+specify the log file name produced by valgrind
+reuse a previously created sandbox dir (SDIR) or, if it does not exist, create it
+do not create or reuse a sandbox directory for additional debug symbols but rely only on installed debug symbols.
+reuse a previously created cache dir (CDIR) or, if it does not exist, create it
+the executable that is run under valgrind's memcheck tool for memory leak detection
+Destination directory exists and is not empty.
+An Ubuntu package has a file conflict with a package that is not a genuine Ubuntu package
+Your system was initially configured with grub version 2, but you have removed it from your system in favor of grub 1 without configuring it. To ensure your bootloader configuration is updated whenever a new kernel is available, open a terminal and run: sudo apt-get install grub-pc
+Problem in bash
+Collecting Problem Information
+The collected information can be sent to the developers to improve the application. This might take a few minutes.
+Uploading Problem Information
+Apport crash file
+The application Apport has stopped responding.
+You can wait to see if it wakes up, or close or relaunch it.
+Sorry, the application apport has stopped unexpectedly.
+Sorry, apport has closed unexpectedly.
+List keys of trusted vendors
+To view the list of trusted keys, you need to authenticate.
+Remove downloaded package files
+To clean downloaded package files, you need to authenticate.
+Change software configuration
+To change software settings, you need to authenticate.
+Change software repository
+To change software repository settings, you need to authenticate.
+Install package file
+To install this package, you need to authenticate.
+Update package information
+To update the software catalog, you need to authenticate.
+Install or remove packages
+To install or remove software, you need to authenticate.org.debian.apt.install-or-remove-packages
+Install software from a high-trust whitelisted repository.
+To install software, you need to authenticate.
+Add a new repository and install packages from it
+To install software from a new source, you need to authenticate.
+Add a new repository of purchased software and install packages from it
+To install purchased software, you need to authenticate.
+Upgrade packages
+To install updated software, you need to authenticate.
+Cancel the task of another user
+To cancel someone else's software changes, you need to authenticate.
+Set a proxy for software downloads
+To use a proxy server for downloading software, you need to authenticate.
+You are not allowed to perform this action.
+Queuing
+Resolving dependencies
+Refresh the cache
+Try to resolve broken dependencies. Potentially dangerous operation since it could try to remove many packages.
+Try to finish a previous incompleted installation
+Install the given packages
+Reinstall the given packages
+Remove the given packages
+Remove the given packages including configuration files
+Downgrade the given packages
+Upgrade the system in a safe way
+Upgrade the system, possibly installing and removing packages
+Add the vendor to the trusted ones
+Use the given keyserver for looking up keys
+Add new repository from the given deb-line
+Specify an alternative sources.list.d file to which repositories should be added.
+List trusted vendor keys
+Remove the trusted key of the given fingerprint
+Reconfigure installed packages. Optionally the minimum priority of questions can be specified
+The minimum debconf priority of question to be displayed
+Do not attach to the apt terminal
+Allow packages from unauthenticated sources
+Show additional information about the packages. Currently only the version number
+Waiting for authentication
+Do not shutdown the daemon because of inactivity
+Do not load any plugins
+Show internal processing information
+These formats can be divided into two groups: online readable formats, and downloadable packages.
+Some publishers have made available printed versions of this manual.
+We cannot recommend any of those, as they tend to become out-of-date very quickly.
+For best performance, you should choose the mirror site closest to you.
+Will be repeated once for every level in the function call stack.
+Tells the receiving program that a debugger message ends here.
+The debugger works by connecting to a TCP port for every time PHP 3 starts up.
+All error messages from that request will be sent to this TCP connection.
+Whereas applications written for the web are often executed very quickly, shell application tend to have a much longer execution time.
+Because this setting is TRUE you will always have access to argc (number of arguments passed to the application) and argv (array of the actual arguments) in the CLI SAPI.
+These directives cannot be initialized with another value from the configuration file php.ini or a custom one (if specified).
+This is a limitation because those default values are applied after all configuration files have been parsed.
+Editing the columns displayed in the list of messages.
+Inserting custom headers in a message
+Click NewMail Message or press ShiftCtrlM to open the message composer window.
+Select InsertCustom Header.
+In the Email Custom Header window, you can view all the defined header fields and values.
+Set the values for the header fields by using the dropdown list.
+Enable HTML format in the mail composer.
+Enabling HTML format
+You can change the format of an email message from plain text to HTML in the email composer by choosing FormatHTML from the menu bar.
+Alternately, you also can change the first dropdown list below the Subject line from Plain Text to HTML.
+If you choose HTML format, a second tool bar will be displayed below the Subject line with HTML-only options.
+To send all your mail as HTML by default, enable EditPreferencesComposer PreferencesDefault BehaviorFormat messages in HTML.
+Forwarding a received email to somebody.
+When you receive an email, you can forward it to other individuals or groups that might be interested.
+Marks a line through the text.
+The other buttons are explained under .
+Add, change, edit or delete email signatures.
+Managing signatures
+You can add, edit and delete all your signatures under EditPreferencesComposer preferencesSignatures.
+Assigning a default signature to an email account has to be done in the account settings.
+Using email signatures at the bottom of a message you send.
+Working with email signatures
+The term "signature" is also differently used in terms of encryption.
+Setting a default signature for an email account.
+Templates can contain more than just the predefined set of key-value pairs. You can also get any message header values from the email that you are applying the template on, plus the complete message body.
+What is possible to send is: your country, region, locality, area, street, building, floor, room, and postal code, longitude, latitude and altitude, speed and bearing.
+The accuracy and the quantity of information about your geographical position are based on the software or on the infrastructure used to discover your position.
+Different kind of networks may have different accuracy settings, and may send different information. The use of external devices such as GPS or mobile phone will increase the accuracy of the information sent.
+When the privacy mode is enabled, nothing more precise than your city will be sent, even if you are using an external device.
+Who can see the information sent
+Only your contacts can see your geographical position.
+Group conversations permits you to have text conversations with more than one contact at the same time.
+To have a group conversation you need to have a registered account with either Jabber or Google Talk, or a People Nearby account.
+You can have a group conversation only with the contacts that are using the same service as yours.
+You can hold private conversations with other IRC users, outside of the public IRC chat rooms. To start a conversation with another IRC user:
+In the contact list for an IRC chat room, double click the name of the user you want to chat with. Alternatively, right click the name of the user and choose Chat.
+From the Contact List window, click on the drop-down list at the top.
+Select the status you want to add a custom message to. You have to select the one identified with the label Custom Message.
+Enter your custom message in the text box at the top of the window, and press Enter to set the message.
+If you want to set the custom message as a favorite, saving it in order to use it again, click on the little heart on the right of the text box where you wrote your custom message.
+It is possible to share your desktop with some of your contacts. You can use this functionality to show your desktop to your contacts to, for example, ask for help or help your contacts resolve a problem.
+To be able to share your desktop, you need to have a VNC server, which has support for the feature, installed on your system. Vino, the GNOME VNC server, has the required support.
+Leave the disc open to add other files later
+From the drop-down list, select the disc that you want to copy.
+From the drop-down list, select the disc to write to.
+From the drop-down list, select the directory to use for storing the temporary files created for the burning process.
+The image could not be created at the specified location
+Closing the last view exits the program
+Prompt for confirmation at exit
+Pause after downloading files
+Use a 'status-line' download indicator for all downloads
+Advance to the next item after changing the state of a package
+Automatically show why packages are broken
+The default grouping method for package views
+The default display-limit for package views
+The display format for package views
+The display format for the status line
+The display format for the header line
+Automatically upgrade installed packages
+Remove obsolete package files after downloading new package lists
+Passing a filename with an absolute path information will not use the systems library search path.
+A relative filename with a directory information will tell PHP only to try to load the extension relative to the current directory.
+The first is the number of arguments plus one (the name of the script running).
+You can decide whether or not you want a client disconnect to cause your script to be aborted.
+Sometimes it is handy to always have your scripts run to completion even if there is no remote browser receiving the output.
+Note that this assumes the use of the file upload name userfile, as used in the example script above.
+Whether or not this overhead is really high depends on many factors. The bottom line is that if that connection overhead is high, persistent connections help you considerably.
+They cause the child process to simply connect only once for its entire lifespan, instead of every time it processes a page that requires connecting to the SQL server.
+This means that for every child that opened a persistent connection will have its own open persistent connection to the server.
+For example, if you had 20 different child processes that ran a script that made a persistent connection to your SQL server, you 'd have 20 different connections to the SQL server, one from each child.
+Note, however, that this can have some drawbacks if you are using a database with connection limits that are exceeded by persistent child connections.
+This function is currently not documented; only the argument list is available.
+Returns a string formatted according to the given format string using the given integer timestamp or the current local time if no timestamp is given.
+If the database name is a number the system will use that as a port number and it will not ask FBExec for the port number.
+This type of link is therefore called 'persistent'.
+A special handling allows fetching "multiple field" columns (which would otherwise all have the same column names).
+For each column of a "multiple field", the index name is constructed by appending the string "(n)" where n is the sub-index of the multiple field column, ranging from 1 to its declared repetition factor.
+Total number of columns in result set (or zero if this was an "immediate "query).
+If character is used, then search will be restricted to those documents having modification date greater than entered.
+Opens a new zip archive for reading.
+It took a couple more months to get the project to a presentable condition and the initial version was released on March 1, 2001.
+In this case, you need no server and no browser.
+Disable passing additional runtime library search paths.
+Highlight the new key phpfile and in the right side pane, double click the "default value" and enter PHP Script.
+At the end of the file, create a new object called x-httpd-php, by inserting these lines:
+Restart your web service and apply changes
+Some problems are more common than others.
+The most common ones are listed in the PHP FAQ, part of this manual.
+If you are still stuck, someone on the PHP installation mailing list may be able to help you.
+If you want to get help on the mailing list, please try to be precise and give the necessary details about your environment (which operating system, what PHP version, what web server, if you are running PHP as CGI or a server module, etc.), and preferably enough code to make others able to reproduce and test your problem.
+If you think you have found a bug in PHP, please report it.
+The initial PHP setup and configuration process is controlled by the use of the commandline options of the configure script.
+This page outlines the usage of the most common options, but there are many others to play with.
+Two types of installation are supported - standard, which provides sensible defaults for all the settings it can, and advanced, which asks questions as it goes along.
+The installation wizard gathers enough information to set up the php.ini file and configure the web server to use PHP.
+For IIS and also PWS on NT Workstation, a list of all the nodes on the server with script map settings is displayed, and you can choose those nodes to which you wish to add the PHP script mappings.
+By and large, what is available has been made possible by the porting of necessary utilities from Unix.
+Don 't be surprised if some of this heritage shows through from time to time.
+Pretty much all of the instructions that follow are of the "set and forget" variety.
+So sit back and try follow the instructions below as faithfully as you can.
+To compile and build PHP To compile and build PHP you need a Microsoft Development Environment.
+Microsoft Visuaul C+ + 6.0 is recommended.
+To extract the downloaded files you need a extraction utilitiy (e.g.:
+If you don 't already have an unzip utility, you can get a free version from InfoZip.
+Notice how this is different from a script written in other languages like Perl or C - - instead of writing a program with lots of commands to output HTML, you write an HTML script with some embedded code to do something (in this case, output some text).
+What distinguishes PHP from something like client-side JavaScript is that the code is executed on the server.
+If you were to have a script similar to the above on your server, the client would receive the results of running that script, with no way of determining what the underlying code may be.
+Often you need classes with similar variables and functions to another existing class.
+To facilitate this, classes can be extensions of other classes.
+The extended or derived class has all variables and functions of the base class (this is called'inheritance 'despite the fact that nobody died) and what you add in the extended definition.
+An extended class is always dependent on a single base class, that is, multiple inheritance is not supported.
+You can still use normal cart functions on named carts: This is also called a "parent-child" relationship.
+You can even use this new child class and create another class based on this child class.
+This is particularly true if your derived class is a refinement or specialisation of code in your base class.
+Instead of using the literal name of the base class in your code, you should be using the special name parent, which refers to the name of your base class as given in the extends Instead of using the literal name of the base class in your code, you should be using the special name parent, which refers to the name of your base class as given in the extends declaration of your class.
+By doing this, you avoid using the name of your base class in more than one place.
+Should your inheritance tree change during implementation, the change is easily made by simply changing the extends declaration of your class.
+Each of these value types can be assigned into variables or returned from functions.
+Each of these value types can be assigned into variables or returned from functions.
+However, PHP takes expressions much further, in the same way many other languages do.
+PHP is an expression-oriented language, in the sense that almost everything is an expression.
+But the truth is that there' s one additional value involved here, and that's the value of the assignment itself.
+The assignment itself evaluates to the assigned value, in this case 5.
+Another good example of expression orientation is pre - and post-increment and decrement.
+These are increment and decrement operators.
+In PHP, like in C, there are two types of increment - pre-increment and post-increment.
+Both pre-increment and post-increment essentially increment the variable, and the effect on the variable is idential.
+The difference is with the value of the increment expression.
+A very common type of expressions are comparison expressions.
+These expressions evaluate to either 0 or 1, meaning FALSE or TRUE (respectively).
+These expressions are most commonly used inside conditional execution, such as if statements.
+But what if you want to add more than one to it, for instance 3?
+In addition to being shorter and clearer, this also results in faster execution.
+There is one more expression that may seem odd if you haven 't seen it in other languages, the ternary conditional operator:
+The following example should help you understand pre - and post-increment and expressions in general a bit better:
+In the beginning of the chapter we said that we 'll be describing the various statement types, and as promised, expressions can be statements.
+However, not every expression is a statement.
+In this case, a statement has the form of 'expr' ';' that is, an expression followed by a semicolon.
+One last thing worth mentioning is the truth value of expressions.
+In many events, mainly in conditional execution and loops, you 're not interested in the specific value of the expression, but only care about whether it means TRUE or FALSE.
+When necessary, an expression is automatically converted to boolean.
+See the section about type-casting for details about how.
+PHP provides a full and powerful implementation of expressions, and documenting it entirely goes beyond the scope of this manual.
+The above examples should give you a good idea about what expressions are and how you can construct useful expressions.
